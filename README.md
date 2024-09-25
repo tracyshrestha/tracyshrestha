@@ -15,6 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tracyshrestha&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tracyshrestha&theme=dark" alt="GitHub Streak" />
 </div>
